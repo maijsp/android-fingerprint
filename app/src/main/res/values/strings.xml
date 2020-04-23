@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FingerprintProject</string>
+    <string name="button">Use Fingerprint</string>
+    <string name="fingerprint_authentication">Fingerprint Authentication</string>
+</resources>
